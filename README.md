@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matendecherej
+- 👋 Hi, I’m Matendechere and this is my journey to be a full-stack software engineer!
 
 
 <!---
